@@ -1,6 +1,4 @@
-# `learning-resources.md` Content:
 
-```markdown
 # 📚 Learning Resources - 516 Hackers
 
 ## 🎯 Comprehensive Learning Path for Packet Analysis
