@@ -1,12 +1,4 @@
 
-### 5. `scripts/basic-sniffer.py`
-```python
-#!/usr/bin/env python3
-"""
-516 Hackers - Basic Packet Sniffer
-Educational purposes only - Always get proper authorization
-"""
-
 import argparse
 import socket
 import struct
