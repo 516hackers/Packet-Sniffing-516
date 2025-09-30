@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-516 Hackers - HTTP Traffic Analyzer
-Specialized tool for analyzing HTTP traffic and extracting useful information
-"""
-
 import argparse
 import re
 from datetime import datetime
