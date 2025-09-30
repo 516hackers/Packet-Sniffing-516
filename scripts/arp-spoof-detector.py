@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-516 Hackers - ARP Spoofing Detector
-Detects ARP spoofing and poisoning attacks on the network
-"""
-
 import argparse
 import time
 from collections import defaultdict, deque
